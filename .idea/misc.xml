@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1615" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/TEST.xml" value="0.1" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.216" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/checkbox_selector.xml" value="0.1" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_add_location_gold.xml" value="0.2115" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_add_photo.xml" value="0.236" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_checkbox_selector.xml" value="0.1" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_choice_photo.xml" value="0.2555" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_choice_photo_delete.xml" value="0.2555" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_choice_photo_x.xml" value="0.2555" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_cost.xml" value="0.183" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_group_303.xml" value="0.1715" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1615" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_location.xml" value="0.183" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_moodboard.xml" value="0.183" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_section_child_view.xml" value="0.1385" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_section_parent_view.xml" value="0.1385" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_settings.xml" value="0.183" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_title_text.xml" value="0.1385" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/ic_title_view.xml" value="0.1385" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/iv_add_location.xml" value="0.2485" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/iv_add_location2.xml" value="0.1" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/drawable/iv_union.xml" value="0.2" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout-v23/item_photo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/fragment_location.xml" value="0.4" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/fragment_photo.xml" value="0.4555160142348754" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/header_location.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/item_location.xml" value="0.2725" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/item_location_test.xml" value="0.536" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/item_photo.xml" value="0.264" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/layout/photo_item.xml" value="0.1" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/menu/bottom_menu.xml" value="0.264" />
+        <entry key="..\:/Work/AndroidStudioProjects/Test Apps/Locations/app/src/main/res/menu/sdgsdg.xml" value="0.14448292924294903" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

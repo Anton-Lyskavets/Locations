@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyleTitle" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">ubuntu</item>
+        <item name="android:letterSpacing">0.03</item>
+    </style>
+
+    <style name="TextStyleNameLocation" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/gray_inactive_text</item>
+        <item name="fontFamily">ubuntu</item>
+        <item name="android:lineSpacingExtra">3sp</item>
+    </style>
+
+    <style name="Widget.Theme.Locations.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+</resources>
